@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PythonDev\\GitHub\\PythonDev\\PythonDev_Pantsiuk\\Python\\Pantsiuk_project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6923BEA4-07F2-478F-8EC5-8D99B4C50533}|Pantsiuk_project_1\\Pantsiuk_project_1.pyproj|D:\\PythonDev\\GitHub\\PythonDev\\PythonDev_Pantsiuk\\Python\\Pantsiuk_project_1\\Pantsiuk_project_1\\Pantsiuk_project_1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6923BEA4-07F2-478F-8EC5-8D99B4C50533}|Pantsiuk_project_1\\Pantsiuk_project_1.pyproj|solutionrelative:Pantsiuk_project_1\\Pantsiuk_project_1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pantsiuk_project_1.py",
+              "DocumentMoniker": "D:\\PythonDev\\GitHub\\PythonDev\\PythonDev_Pantsiuk\\Python\\Pantsiuk_project_1\\Pantsiuk_project_1\\Pantsiuk_project_1.py",
+              "RelativeDocumentMoniker": "Pantsiuk_project_1\\Pantsiuk_project_1.py",
+              "ToolTip": "D:\\PythonDev\\GitHub\\PythonDev\\PythonDev_Pantsiuk\\Python\\Pantsiuk_project_1\\Pantsiuk_project_1\\Pantsiuk_project_1.py",
+              "RelativeToolTip": "Pantsiuk_project_1\\Pantsiuk_project_1.py",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwIcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-15T19:50:59.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
