@@ -19,6 +19,8 @@
 10. [Лабораторна робота 6 Звіт](./Python/Lab_6_Pantsiuk_quarto)
 11. [Лабораторна робота 6 Розрахунки](./Python/Lab_6_Pantsiuk)
 12. [Лабораторна робота 7 Звіт](./Python/Lab_7_Pantsiuk)
+12. [_Фінальний проект 1 код_](.Python/Pantsiuk_project_1/Pantsiuk_project_1/Pantsiuk_project_1.py)
+13.  [_Фінальний проект 1 Звіт_](.Python/Project_1_Pantsiuk/Project_1_Pantsiuk.ipynb)
    ### Вміст буде доповнюватися
  `<КН-22-2>` `<Панццюк Кирило Віталійович>` 
 
