@@ -22,7 +22,7 @@
 12. [_Фінальний проект 1 код_](.Python/Pantsiuk_project_1/Pantsiuk_project_1/Pantsiuk_project_1.py)
 13.  [_Фінальний проект 1 Звіт_](.Python/Project_1_Pantsiuk/Project_1_Pantsiuk.ipynb)
 14. [_Лабораторна робота 8 Звіт_](Python/Lab_8_Pantsiuk)
-15.14. [_Лабораторна робота 9 Звіт_](Python/Lab_9_Pantsiuk)
+15. [_Лабораторна робота 9 Звіт_](Python/Lab_9_Pantsiuk)
    ### Вміст буде доповнюватися
  `<КН-22-2>` `<Панццюк Кирило Віталійович>` 
 
