@@ -20,7 +20,7 @@
 11. [Лабораторна робота 6 Розрахунки](./Python/Lab_6_Pantsiuk)
 12. [Лабораторна робота 7 Звіт](./Python/Lab_7_Pantsiuk)
 12. [_Фінальний проект 1 код_](.Python/Pantsiuk_project_1/Pantsiuk_project_1/Pantsiuk_project_1.py)
-13.  [_Фінальний проект 1 Звіт_](.Python/Project_1_Pantsiuk/Project_1_Pantsiuk.ipynb)
+13.  [_Фінальний проект 1 Звіт_](Python/Project_1_Pantsiuk)
 14. [_Лабораторна робота 8 Звіт_](Python/Lab_8_Pantsiuk)
 15. [_Лабораторна робота 9 Звіт_](Python/Lab_9_Pantsiuk)
 16.  [_Лабораторна робота 10 Звіт_](Python/Lab_10_Pantsiuk)
